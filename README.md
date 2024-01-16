@@ -69,6 +69,6 @@ Thank you for exploring our Web-Based Event Trigger and Email Notification Syste
 
 Feel free to contribute, report issues, or provide feedback. We welcome your input to improve the functionality, code quality, and user experience of this project.
 
-If you have any questions or need assistance, please don't hesitate to reach out. Happy coding!
+If you have any questions or need assistance, please feel free to reach us. Happy coding!
 
 
