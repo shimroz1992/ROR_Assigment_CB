@@ -35,17 +35,17 @@ Follow the steps below to clone the repository and set up the application on you
 
 ### Clone the Repository
 
-`bash
-git clone git@github.com:shimroz1992/ROR_Assigment_CB.git`
-cd ROR_Assigment_CB
+
+`git clone git@github.com:shimroz1992/ROR_Assigment_CB.git`
+`cd ROR_Assigment_CB`
 ### Install Dependencies
-`bash
-bundle install
+`bundle install`
 ### Database Setup
-`bash
-rails db:migrate
+`rails db:migrate`
 #### Run the Application
-rails server   or    rails s
+`rails server`
+or    
+`rails s`
 
 ## Usage
 - Click "Create Event A" to generate an instance of Event A.
