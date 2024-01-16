@@ -22,6 +22,8 @@ Follow the steps below to clone the repository and set up the application on you
 ### Install Dependencies
 `bundle install`
 ### Database Setup
+`rails db:create`
+and
 `rails db:migrate`
 #### Run the Application
 `rails server`
