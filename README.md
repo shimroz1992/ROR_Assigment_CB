@@ -35,12 +35,14 @@ Follow the steps below to clone the repository and set up the application on you
 
 ### Clone the Repository
 
-```bash
+`bash
 git clone git@github.com:shimroz1992/ROR_Assigment_CB.git
 cd ROR_Assigment_CB
 ### Install Dependencies
+`bash
 bundle install
 ### Database Setup
+`bash
 rails db:migrate
 #### Run the Application
 rails server   or    rails s
