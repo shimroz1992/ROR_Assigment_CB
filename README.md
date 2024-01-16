@@ -36,7 +36,7 @@ Follow the steps below to clone the repository and set up the application on you
 ### Clone the Repository
 
 `bash
-git clone git@github.com:shimroz1992/ROR_Assigment_CB.git
+git clone git@github.com:shimroz1992/ROR_Assigment_CB.git`
 cd ROR_Assigment_CB
 ### Install Dependencies
 `bash
