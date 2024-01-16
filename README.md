@@ -14,6 +14,21 @@ Follow the steps below to clone the repository and set up the application on you
 - Ruby on Rails installed
 - Git installed
 
+### Clone the Repository
+
+
+`git clone https://github.com/shimroz1992/ROR_Assigment_CB.git`
+`cd ROR_Assigment_CB`
+### Install Dependencies
+`bundle install`
+### Database Setup
+`rails db:migrate`
+#### Run the Application
+`rails server`
+or    
+`rails s`
+
+
 # Web-Based Event Trigger and Email Notification System
 
 ## Overview
@@ -33,19 +48,6 @@ Follow the steps below to clone the repository and set up the application on you
 - **Testing with Mocks:**
   - Iterable.com API interactions are mocked using over-the-wire mocks for reliable testing.
 
-### Clone the Repository
-
-
-`git clone git@github.com:shimroz1992/ROR_Assigment_CB.git`
-`cd ROR_Assigment_CB`
-### Install Dependencies
-`bundle install`
-### Database Setup
-`rails db:migrate`
-#### Run the Application
-`rails server`
-or    
-`rails s`
 
 ## Usage
 - Click "Create Event A" to generate an instance of Event A.
